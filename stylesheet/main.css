@@ -75,7 +75,7 @@ body{
     cursor: pointer;
 }
 .ratings-cls input[type="radio"]:checked + label{
-    background-color: hsl(25, 97%, 53%) ;
+    background-color: rgb(103, 103, 103) ;
   }
 
 
